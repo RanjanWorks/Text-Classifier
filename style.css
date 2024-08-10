@@ -217,7 +217,7 @@ label {
     --body: rgb(43, 41, 41);
     --fontClr: #dcf4ff;
     --lightWhite: #222327;
-    --btnBlue: rgb(26, 23, 171);
+    --btnBlue: #89BCD5;
   }
 
   .wrapper .progress.positive {
